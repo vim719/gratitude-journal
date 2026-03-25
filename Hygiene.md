@@ -71,3 +71,5 @@ Keep it Current: Delete "dead" branches once they are merged into the main proje
 3.  **Paste** the content above.
 4.  **Commit and Push** it just like you did with your journal entries.
 
+
+[⬅️ Back to Main Journal](./README.md)
