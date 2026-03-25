@@ -136,5 +136,27 @@ Merge: After review, the code is merged into "Main."
 
 Close: The "Issue" is marked as resolved.
 
+//
+
+Step 1 - Fork Your Own Repo:
+
+Go to your GitHub.com repo in browser
+Click Fork (top-right corner)
+Clone the fork locally via GitHub Desktop
+Step 2 - Create a New Branch:
+
+In GitHub Desktop, switch to your forked repo
+Click Branch → New Branch → name it 'bonus-changes'
+Step 3 - Make Changes → Step 4 - Commit & Push → Step 5 - Create Pull Request:
+
+On GitHub.com, click Compare & Pull Request
+Add note: 'Testing pull request workflow'
+Step 6 - Merge:
+
+Click Merge Pull Request → Confirm Merge
+Delete branch if desired
+
+//
+
 
 [⬅️ Back to Main Journal](./README.md)
