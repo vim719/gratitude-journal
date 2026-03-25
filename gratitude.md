@@ -1,0 +1,2 @@
+# Gratitude Journal' March 24
+I'm happy I can open repo from github to VS code and opened a new file and typed it as gratitude.md as markdown file and saved it by hitting Enter. Then created a title and followed by my learning which I'm happy about.
