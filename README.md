@@ -46,3 +46,8 @@ In this project, I follow these professional standards:
 
 ---
 *Created with ❤️ by Vim719
+
+
+## 🔗 Quick Links
+* [View my GitHub Hygiene Guide](./HYGIENE.md)
+* [Jump to Journal Entries](#-journal-entries)
