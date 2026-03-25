@@ -29,7 +29,18 @@ GitHub is a public stage. Once sensitive data is pushed, it is very difficult to
 * **Never Push Secrets:** Do not hardcode API keys, passwords, or tokens directly into your code.
 * **Use Environment Variables:** Store secrets in a `.env` file on your local machine.
 * **The "Point of No Return":** If you accidentally push a password, **change the password immediately**. Deleting the commit is not enough because it remains in the Git history.
+//
+If you accidentally commit a secret:
 
+Revoke it immediately — go to the service (AWS, OpenAI, etc.) and invalidate the key. Assume it's already compromised.
+Remove from history using
+git filter-branch
+or
+git rebase
+— but this rewrites history, which causes problems on shared repos
+Force push the cleaned history (risky on team repos)
+Bottom line: Revoking the key is always Step 1 — cleaning git history is secondary.
+//
 ---
 
 ## 3. 🚫 The Power of `.gitignore`
