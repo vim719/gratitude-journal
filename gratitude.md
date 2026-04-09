@@ -5,3 +5,4 @@ Finally getting git commit push origin from github to VS code and back to github
 * **March 28, 2026:** I'm grateful for learning how to use 5 why's to directly deep dive to root cause of any problem!
 * **March 29, 2026:** I'm grateful for learning how to create a strong value proposition where these elements must exist - WHO is this for, WHAT is it about, WHY this solution for WHAT problem, WHY this is a better solution over alternatives(if there are any alternatives), HOW is it different with competitive edge over other solutions
 ** April 7, 2026:** I'm grateful I have learnt key concept of differences between AI and automation.
+April 8, 2026: I'm grateful cause I learnt what is package and package manager and dependecies are. New things. 
